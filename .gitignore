@@ -1,0 +1,4 @@
+# File to make sure certain files are not checked into git for security
+__pycache__
+venv/
+.env
